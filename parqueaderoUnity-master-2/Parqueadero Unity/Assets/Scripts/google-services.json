@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "811609179419",
+    "firebase_url": "https://parqueaderouccali-8a09c.firebaseio.com",
+    "project_id": "parqueaderouccali-8a09c",
+    "storage_bucket": "parqueaderouccali-8a09c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811609179419:android:cbfde6315bd46afd",
+        "android_client_info": {
+          "package_name": "com.parqueadero.unity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811609179419-s97e943i0r72gcnmdqp3h0pohkclufjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGmkyT8GDBfTWefh0gTtRpK3zKf9NxD9E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
